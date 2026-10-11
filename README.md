@@ -86,6 +86,8 @@ Each repository has its own setup instructions in its README. End to end:
   the repositories.
 - [GOVERNANCE.md](GOVERNANCE.md): maintainer roles, decision-making, merge rules,
   and deployment key custody.
+- [VERSIONING.md](VERSIONING.md): semantic versioning rules, contract ABI evolution,
+  breaking change protocol, and 1.0 release criteria.
 
 ## License
 

@@ -22,7 +22,7 @@ TricklePay has a working end-to-end MVP on testnet:
 - Documentation covering the architecture, security policy, and threat model.
 
 The project is pre-1.0 and unaudited. See [SECURITY.md](SECURITY.md) for the
-audit status.
+audit status and [VERSIONING.md](VERSIONING.md) for 1.0 release criteria.
 
 ## Near term
 
